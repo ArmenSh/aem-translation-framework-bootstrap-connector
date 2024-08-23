@@ -376,7 +376,7 @@
                     <snapshots>
                         <enabled>true</enabled>
                     </snapshots>
-                </repository>                
+                </repository>
             </repositories>
 
             <pluginRepositories>
@@ -541,7 +541,7 @@
             <dependency>
                 <groupId>com.adobe.aem</groupId>
                 <artifactId>aem-sdk-api</artifactId>
-                <version>2020.7.3902.20200716T022312Z-200604</version>
+                <version>2024.8.17465.20240813T175259Z-240700</version>
                 <scope>provided</scope>
             </dependency>
 
